@@ -22,4 +22,4 @@ class Solution:
         if low > all:
             return low
         else:
-            return high - 1
+            return high - 1 
