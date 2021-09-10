@@ -20,6 +20,6 @@ class Solution:
         return -1
 nums = [-1,0,3,5,9,12]
 target = 3    
-bb = Solution()
-b = bb.search(nums,target)           
-print(b)
+sol = Solution()
+result = sol.search(nums,target)           
+print(result)
